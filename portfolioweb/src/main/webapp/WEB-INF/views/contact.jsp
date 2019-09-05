@@ -5,11 +5,11 @@
 </div>
 
 <div class="row">
-	<div class="col m6 l6 offset-l3">
+	<div class="col m6 l6 offset-l3 offset-m3 offset-s1">
     <form class="col s12">
       <div class="row">
         <div class="input-field col s6">
-          <input placeholder="Placeholder" id="first_name" type="text" class="validate">
+          <input id="first_name" type="text" class="validate">
           <label for="first_name">First Name</label>
         </div>
         <div class="input-field col s6">

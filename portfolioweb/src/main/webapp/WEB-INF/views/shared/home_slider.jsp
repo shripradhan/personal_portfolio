@@ -1,6 +1,6 @@
 <div class="carousel carousel-slider" data-indicators="true" >
     
-    <div class="carousel-fixed-item center">
+    <div class="carousel-fixed-item center" id="heading">
     
     	<img class="rounded-circle" alt="" src="${profile_img}/port1.jpg" width="200" height="150">
     	<h2 class="white-text" id="name">WELCOME TO MY WEBSITE</h2>

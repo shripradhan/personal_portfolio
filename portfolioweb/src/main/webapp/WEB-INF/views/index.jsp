@@ -20,14 +20,13 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
  	
- 	  <!-- Compiled and minified CSS -->
+ 	<!-- Compiled and minified CSS -->
   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
  	 
- 	 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
- 	
- 	 <!-- jquery cdn -->
+ 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ 	  	
+   	<!-- jquery cdn -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    
     
  	<!-- Compiled and minified JavaScript -->
  	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
@@ -44,7 +43,7 @@
 		section {
 			width : 100%;
 			margin : auto;
-			margin-top : 10px;
+			margin-top : 0px;
 			padding: 50px 0px 60px;
     		height: 670px;
 		}
@@ -62,6 +61,107 @@
 			color: black;
 		}
 		
+		/*
+			Responsive
+		*/
+	 	
+		@media(min-width : 992px){
+			.side-nav{
+				width: 200px;
+			}
+		}
+		
+		@media(min-width : 800px) and (max-width : 991px){
+			.carousel-item {
+			  height: 800px;
+			}
+			
+			.carousel-item img {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    min-height: 500px;
+			}
+			
+			.side-nav{
+				width: 200px;
+			}
+			
+			#contactMe{
+				height: 1200px;
+			}
+		}
+		
+		@media(min-width : 575px) and (max-width : 800px){
+			.carousel-item {
+			  height: 800px;
+			}
+			
+			.carousel-item img {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    min-height: 500px;
+			}
+			
+			.side-nav{
+				width: 200px;
+			}
+			
+			#contactMe{
+				height: 1300px;
+			}
+			
+			
+		
+		}
+		
+		@media(min-width : 460px) and (max-width : 574px){
+			.carousel-item {
+			  height: 800px;
+			}
+			
+			.carousel-item img {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    min-height: 500px;
+			}
+			
+			.side-nav{
+				width: 200px;
+			}
+			
+			#contactMe{
+				height: 1300px;
+			}
+			
+			
+		}
+		
+		@media(max-width : 479px){
+			.carousel-item {
+			  height: 800px;
+			}
+			
+			.carousel-item img {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    min-height: 500px;
+			}
+			
+			.side-nav{
+				width: 200px;
+			}
+			
+			#contactMe{
+				height: 1300px;
+			}
+			
+			
+		}
+		 
 	
    	</style>   
  

@@ -10,7 +10,7 @@
 		  
 	      <div class="card  hoverable">
 	        <div class="card-image">
-	         <img class="responsive-img" src="${images}/ban3.jpg">
+	         <img class="responsive-img" src="${images}/ban01.jpg">
 	          <span class="card-title">Card Title</span>
 	          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 	        </div>
@@ -28,7 +28,7 @@
 		  
 	      <div class="card  hoverable">
 	        <div class="card-image">
-	         <img class="responsive-img" src="${images}/ban3.jpg">
+	         <img class="responsive-img" src="${images}/ban03.jpg">
 	          <span class="card-title">Card Title</span>
 	          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 	        </div>
@@ -46,7 +46,7 @@
 		  
 	      <div class="card  hoverable">
 	        <div class="card-image">
-	         <img class="responsive-img" src="${images}/ban3.jpg">
+	         <img class="responsive-img" src="${images}/ban04.jpg">
 	          <span class="card-title">Card Title</span>
 	          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 	        </div>

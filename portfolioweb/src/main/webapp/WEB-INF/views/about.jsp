@@ -6,7 +6,7 @@
 
 <div class="row">
       <div class="col m6 s12">
-      	<img class="responsive-img" src="${images}/ban1.jpg">
+      	<img class="responsive-img" src="${images}/ban01.jpg">
       </div>
       <div class="col m6 s12">
       	<h2>About Me</h2>
