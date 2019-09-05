@@ -9,7 +9,7 @@ public class WelcomeController {
 
 	
 	public WelcomeController() {
-		System.out.println("WelcomeController.WelcomeController()");
+		 System.out.println("WelcomeController.WelcomeController()");
 	}
 	
 	@RequestMapping(value = "/home", method=RequestMethod.GET )

@@ -1,4 +1,5 @@
  <div class="navbar-fixed">
+ 
   <nav class="grey lighten-5" >
     <div class="nav-wrapper container">
       <a href="#!" class="brand-logo black-text">SHREETECH</a>
@@ -24,8 +25,9 @@
         <li><a href="#contactMe">Contact Me</a></li>
       </ul>
      </div>
-  </nav>   
-  </div>  
+  </nav> 
+    
+</div>  
       <ul class="side-nav nav black-text" id="mobile-demo">
         <li><a href="#home">Home</a></li>
         <li><a href="#services">Sevices</a></li>

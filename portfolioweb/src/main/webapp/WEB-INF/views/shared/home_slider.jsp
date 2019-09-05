@@ -1,6 +1,7 @@
 <div class="carousel carousel-slider" data-indicators="true" >
     
     <div class="carousel-fixed-item center">
+    
     	<img class="rounded-circle" alt="" src="${profile_img}/port1.jpg" width="200" height="150">
     	<h2 class="white-text" id="name">WELCOME TO MY WEBSITE</h2>
     	<p class="white-text">
@@ -10,20 +11,21 @@
     	<a class="btn waves-effect waves-light" href="#" target="_blank">MORE INFO
     		<i class="material-icons right">send</i>
     	</a>
+    	
     </div>
     
-    <a class="carousel-item" href="#three!"><img src="${images}/ban1.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban2.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban3.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban4.jpg"></a>
-     <a class="carousel-item" href="#three!"><img src="${images}/ban5.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban6.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban7.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban8.jpg"></a>
-     <a class="carousel-item" href="#three!"><img src="${images}/ban9.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban10.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban11.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="${images}/ban12.jpg"></a>
+    <a class="carousel-item" href="#three!"><img src="${images}/ban01.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban02.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban03.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban04.jpg"></a>
+     <a class="carousel-item" href="#three!"><img src="${images}/ban05.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban06.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban07.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban08.jpg"></a>
+     <a class="carousel-item" href="#three!"><img src="${images}/ban09.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban010.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban011.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="${images}/ban012.jpg"></a>
     
      
 </div>

@@ -1,7 +1,9 @@
 <h2 class="center-align">About Me</h2>
+
 <div class="row">
       <div class="col s4 m4 l4 offset-s4 offset-m4 offset-l4  "><hr></div>
 </div>
+
 <div class="row">
       <div class="col m6 s12">
       	<img class="responsive-img" src="${images}/ban1.jpg">

@@ -58,17 +58,9 @@
 			scroll-behavior: smooth;
 		}
 		
-		nav a{
+		nav a{ 
 			color: black;
 		}
-		
-		
-		@media (max-width: 300px) {
-			h2{
-				font-size: 1px;
-			}
-		}
-		
 		
 	
    	</style>   

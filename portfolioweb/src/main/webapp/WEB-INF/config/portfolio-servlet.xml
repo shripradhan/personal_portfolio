@@ -16,6 +16,7 @@
 		<property name="suffix" value=".jsp"/>
 	</bean>
 	
+	
 	<!-- configure TilesViewResolver -->
 	<!-- <bean id="tilesViewResolver" class="org.springframework.web.servlet.view.tiles3.TilesViewResolver"/> -->
 	

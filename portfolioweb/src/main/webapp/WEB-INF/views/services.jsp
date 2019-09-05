@@ -1,7 +1,9 @@
 <h2 class="center-align">Services</h2>
+
 <div class="row">
       <div class="col s4 m4 l4 offset-s4 offset-m4 offset-l4  "><hr></div>
 </div>
+
 <div class="row"> 
 	<!-- first Card -->
 	<div class="col s12 m4 l4">
